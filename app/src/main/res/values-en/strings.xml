@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">CookBook</string>
+
+    <string name="titulo_recetario">My Homemade Recipes</string>
+    <string name="subtitulo_bienvenida">Welcome, %1$s</string>
+    <string name="boton_anadir_receta">Add new recipe</string>
+
+    <!-- Detalle de la receta de muestra -->
+    <string name="receta_ejemplo_nombre">Baked Salmon with Vegetables</string>
+    <string name="receta_ejemplo_tiempo">Time: 25 minutes</string>
+    <string name="receta_ejemplo_dificultad">Difficulty: Easy</string>
+
+    <string name="etiqueta_ingredientes">Required ingredients</string>
+    <string name="texto_ingredientes">• 2 fresh salmon fillets\n• 1 medium zucchini, sliced\n• 1 red bell pepper, sliced\n• 2 tbsp extra virgin olive oil\n• Salt and black pepper</string>
+
+    <string name="etiqueta_preparacion">Preparation steps</string>
+    <string name="texto_preparacion">1. Preheat oven to 190°C (375°F).\n2. Place sliced vegetables on a baking tray with olive oil and salt.\n3. Put salmon fillets on top of vegetables.\n4. Bake for 15-18 minutes until tender.\n5. Serve immediately warm.</string>
+
+    <string-array name="array_categorias">
+        <item>Starters and salads</item>
+        <item>Main courses</item>
+        <item>Desserts and baking</item>
+    </string-array>
+</resources>
