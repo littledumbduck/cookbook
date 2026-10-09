@@ -1,3 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">PMDM_P1_AlbertoLarios</string>
+    <string name="app_name">CookBook</string>
+
+    <string name="titulo_recetario">Mis Recetas Caseras</string>
+    <string name="subtitulo_bienvenida">Bienvenido, %1$s</string>
+    <string name="boton_anadir_receta">Añadir nueva receta</string>
+
+    <!-- Detalle de la receta de muestra -->
+    <string name="receta_ejemplo_nombre">Salmón al Horno con Verduras</string>
+    <string name="receta_ejemplo_tiempo">Tiempo: 25 minutos</string>
+    <string name="receta_ejemplo_dificultad">Dificultad: Fácil</string>
+
+    <string name="etiqueta_ingredientes">Ingredientes necesarios</string>
+    <string name="texto_ingredientes">• 2 lomos de salmón fresco\n• 1 calabacín cortado en juliana\n• 1 pimiento rojo en tiras\n• 2 cucharadas de aceite de oliva\n• Sal y pimienta al gusto</string>
+
+    <string name="etiqueta_preparacion">Modo de preparación</string>
+    <string name="texto_preparacion">1. Precalienta el horno a 190°C con calor arriba y abajo.\n2. Coloca las verduras cortadas en una bandeja para horno con un hilo de aceite y sal.\n3. Dispón los lomos de salmón sobre las verduras salpimentadas.\n4. Hornea durante 15-18 minutos hasta que el salmón esté jugoso.\n5. Sirve recién salido del horno.</string>
+
+    <string-array name="array_categorias">
+        <item>Entrantes y ensaladas</item>
+        <item>Platos principales</item>
+        <item>Postres y repostería</item>
+    </string-array>
 </resources>

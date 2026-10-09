@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Estilo para títulos de secciones principales -->
+    <style name="EstiloTituloSeccion">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/color_primario</item>
+        <item name="android:layout_marginTop">16dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+    </style>
+
+    <!-- Estilo para bloques de contenido textual (ingredientes y preparación) -->
+    <style name="EstiloCuerpoReceta">
+        <item name="android:textSize">15sp</item>
+        <item name="android:textColor">@color/color_texto_principal</item>
+        <item name="android:lineSpacingExtra">4dp</item>
+    </style>
+
+    <!-- Estilo para botones de acción -->
+    <style name="EstiloBotonAccion">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/color_fondo_pantalla</item>
+        <item name="android:backgroundTint">@color/color_primario</item>
+        <item name="android:minHeight">48dp</item>
+        <item name="android:paddingStart">24dp</item>
+        <item name="android:paddingEnd">24dp</item>
+    </style>
+</resources>

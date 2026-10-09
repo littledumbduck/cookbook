@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- Tonos cálidos gastronómicos -->
-    <color name="color_primario">#D35400</color>            <!-- Naranja caldera / Terracota -->
-    <color name="color_primario_variante">#A04000</color>   <!-- Tono tostado oscuro -->
-    <color name="color_secundario">#27AE60</color>          <!-- Verde hierba / Albahaca -->
-    <color name="color_fondo_pantalla">#FDFEFE</color>      <!-- Blanco roto limpio -->
-    <color name="color_superficie_tarjeta">#F4F6F6</color>  <!-- Gris muy claro -->
-    <color name="color_texto_principal">#2C3E50</color>     <!-- Gris grafito oscuro -->
-    <color name="color_texto_secundario">#7F8C8D</color>    <!-- Gris medio -->
-    <color name="color_destacado_acento">#F39C12</color>    <!-- Amarillo cálido -->
+    <!-- Paleta semántica ChefNotes/CookBook -->
+    <color name="color_primario">#D35400</color>
+    <color name="color_primario_variante">#A04000</color>
+    <color name="color_secundario">#27AE60</color>
+    <color name="color_fondo_pantalla">#FDFEFE</color>
+    <color name="color_superficie_tarjeta">#F2F4F4</color>
+    <color name="color_texto_principal">#2C3E50</color>
+    <color name="color_texto_secundario">#7F8C8D</color>
+    <color name="color_acento_destacado">#F39C12</color>
 </resources>
